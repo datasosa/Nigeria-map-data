@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nigeria",
+        "iso_a3": "NGA",
+        "population": 218000000,
+        "capital": "Abuja",
+        "region": "West Africa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.691702,
+              4.240594
+            ],
+            [
+              3.57418,
+              6.2583
+            ],
+            [
+              5.898173,
+              8.60208
+            ],
+            [
+              8.665124,
+              12.4838
+            ],
+            [
+              13.083987,
+              13.596147
+            ],
+            [
+              13.9975,
+              4.0005
+            ],
+            [
+              2.691702,
+              4.240594
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
